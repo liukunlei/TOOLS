@@ -79,20 +79,20 @@ ___
     	[README.md](README.md)  
     	[Markdown小技巧](#小技巧)  
     - 引用式链接
-        - 示例：
+         - 示例：
         ```
         [刘坤磊github]  
-	[回到顶部]  
+		[回到顶部]  
 		
-	[刘坤磊github]: https://github.com/liukunlei  
-    	[回到顶部]: #准备  
+		[刘坤磊github]: https://github.com/liukunlei  
+    	[回到顶部]: #准备 
         ```
         
-	[刘坤磊github]  
-	[回到顶部]  
+		[刘坤磊github]  
+		[回到顶部]  
 		
-	[刘坤磊github]: https://github.com/liukunlei  
-    	[回到顶部]: #准备  
+		[刘坤磊github]: https://github.com/liukunlei  
+    	[回到顶部]: #准备
 
 8. 图片  
     - 格式：
