@@ -72,7 +72,7 @@ shop是版本仓库，此时只是一个普通文件夹，等待创建
 >在本地建jingli文件夹(最好在Apache服务器根目录，便于文件执行，如：D:\PHP\phpStudy\WWW\jingli)  
 只在第一次链接时操作一次，以后有更新用update指令  
 
-- jignli文件夹中右键  
+- jingli文件夹中右键  
 - 选择tortoiseSVN  
 - repo-browser  
   >之前监管的是shop，则输入svn://localhost  
