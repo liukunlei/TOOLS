@@ -13,13 +13,13 @@
 
 ***
 
-## Markdown 简介  
+## 简介  
 　　Markdown是什么？相信很多小伙伴对于Markdown会很陌生，简要来说，Markdown是一种排版语法。排版？我们不是有Word吗？What？我们可是21世纪的"程序猿"了，怎么还能这么low(没有贬低word的意思 真的)。网站小编、码农、排版编辑高呼：“要有光！” 于是乎Markdown诞生了。  
 　　你可以认为Markdown是一种排版语法，提供了一些特殊的符号来替换成对应的格式，我们在word中点击鼠标来达到加粗、倾斜、增大字体的目的，在Markdown中被相应的特殊符号替代。Markdown用于解放鼠标，仅仅使用键盘就能排版出非常漂亮的文字、博客等（比如本文就是用Markdown编写的）。
 
 ---
 
-## Markdown 准备  
+## 准备  
 - 安装[HBuilder](http://www.dcloud.io/)  
 - 安装GFM Viewer
   - 打开HBuilder
@@ -34,7 +34,7 @@
 
 ___
 
-## Markdown 语法
+## 语法
 
 1. 标题  
     - 字符`#`作为关键字  
@@ -73,11 +73,11 @@ ___
     	```
     	[刘坤磊的github](https://github.com/liukunlei)  
     	[README.md](README.md)  
-    	[Markdown小技巧](#Markdown-小技巧 )  
+    	[Markdown小技巧](#小技巧 )  
     	```
     	[刘坤磊的github](https://github.com/liukunlei)  
     	[README.md](README.md)  
-    	[Markdown小技巧](#Markdown-小技巧)  
+    	[Markdown小技巧](#小技巧)  
     - 引用式链接
         - 示例：
         ```
@@ -85,14 +85,14 @@ ___
 		[回到顶部]  
 		
 		[刘坤磊github]: https://github.com/liukunlei  
-    	[回到顶部]: #Markdown入门 
+    	[回到顶部]: #准备 
         ```
         
 		[刘坤磊github]  
 		[回到顶部]  
 		
 		[刘坤磊github]: https://github.com/liukunlei  
-    	[回到顶部]: #Markdown入门
+    	[回到顶部]: #准备
 
 8. 图片  
     - 格式：
@@ -177,7 +177,7 @@ ___
 
 ***
 
-## Markdown 小技巧
+## 小技巧
 
 1. 换行  
     - 空一行  
